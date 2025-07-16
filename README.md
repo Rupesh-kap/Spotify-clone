@@ -1,12 +1,6 @@
-# 🎵 SPOTIFYmini:byRUPESH
+# 🎵 SPOTIFY MINI
 
 A **Spotify-inspired music streaming UI** built with **HTML** and **CSS**. This is a front-end clone project that emulates the look and feel of the Spotify web player interface.
-
----
-
-## 📸 Preview
-
-![Screenshot of the Spotify Clone UI](./assets/screenshot.png) <!-- Optional: Add your own screenshot here -->
 
 ---
 
@@ -27,11 +21,6 @@ A **Spotify-inspired music streaming UI** built with **HTML** and **CSS**. This 
 - **CSS3**
 - **Font Awesome (Icons)**
 - **Google Fonts - Montserrat**
-
----
-
-## 📂 Folder Structure
-
 
 ---
 
